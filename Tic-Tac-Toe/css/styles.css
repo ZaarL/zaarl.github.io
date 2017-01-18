@@ -1,0 +1,41 @@
+body{
+
+	text-align:center;
+	
+}
+
+.box{
+
+	text-align:left;
+	width:auto;
+	height:auto;
+	
+}
+
+h3{
+
+	position:relative;
+	-webkit-animation:h3Animation 5s; 
+	
+}
+
+h1{
+
+	position:relative;
+	-webkit-animation:h1Animation 5s; 
+	
+}
+
+h2{
+
+	position:relative;
+	-webkit-animation:h2Animation 5s; 
+	
+}
+
+canvas{
+
+	position:relative;
+	-webkit-animation:canvasAnimation 5s; 
+	
+}
